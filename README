@@ -1,1 +1,4 @@
 A small collection of scripts, tools and other stuff
+
+* unzp.sh   --> small helper for unpacking archives
+* dmesg.pl  --> small wrapper to make the dmesg output better readable with timestamps
