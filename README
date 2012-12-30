@@ -4,3 +4,4 @@ A small collection of scripts, tools and other stuff
 * dmesg.pl        --> small wrapper to make the dmesg output better readable with timestamps
 * colordmesg.pl   --> helper to colorize the dmesg standard output
 * shorturl.sh     --> little script to cut long urls with tinyurl service & curl
+* flac2mp3.sh     --> little script to convert flac files into mp3
